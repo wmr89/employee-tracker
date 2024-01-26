@@ -1,3 +1,5 @@
+
+-- Create values to insert into each of the database tables
 INSERT INTO department (name)
 VALUES 
 ('Administration'),
